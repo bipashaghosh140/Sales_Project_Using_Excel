@@ -80,7 +80,7 @@ The dashboard provides a **clear, interactive, and business-friendly view** of s
 
 ---
 📌 **FILE -- EXCEL_WORKING :** 
-👉 **[Excel_Sales_Project_Dataset](Excel_Sales_Project_Dataset)**
+👉 **[Excel_Sales_Project_Dataset](Excel_Sales_Project_Dataset.xlsx)**
 ### 📊 EXCEL Snapshots
 
 SNAPSHOT – Line_Chart
